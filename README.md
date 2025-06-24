@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujan Chakma</h1>
+<h1 align="center"> Hey! Nice to see you.</h1>
 <h3 align="center">Front-End Developer | MERN Stack Enthusiast</h3>
 
 - 🌱 I’m currently learning **Frameworks, Integrated code with AI**
