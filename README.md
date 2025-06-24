@@ -1,8 +1,8 @@
-<picture>
+<h1><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
-</picture><h1 align="center"> Hey! Nice to see you.</h1>
-<h3 align="center">Front-End Developer | MERN Stack Enthusiast</h3>
+</picture> Hey! Nice to see you.</h1>
+<h3>Front-End Developer | MERN Stack Enthusiast</h3>
 
 - 🌱 I’m currently learning **Frameworks, Integrated code with AI**
 
