@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/sujan-dev/sujan-dev/blob/main/profile-banner.png?raw=true" alt="Sujan's Banner" width="100%" />
+</p>
+
 <h1><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="32" height="32">
