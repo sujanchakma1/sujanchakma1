@@ -5,7 +5,6 @@
 </picture> Hey! Nice to see you.</h1>
 <h3>I'am Sujan, Front-End Developer | MERN Stack Enthusiast</h3>
 
-- 🔭 I’m currently working on **ProFast Projects**
 
 - 🌱 I’m currently learning **Exploring Next.js**
 
