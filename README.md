@@ -56,4 +56,4 @@ I'm Sujan Chakma, a MERN Stack Developer</h3>
 
 <h2 align="left">⚡ Current State</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sujanchakma1&hide_border=true&border_radius=10&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sujanchakma1&hide_border=true&border_radius=&card_width=600&card_height=200)](https://git.io/streak-stats)
