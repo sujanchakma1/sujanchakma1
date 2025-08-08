@@ -4,8 +4,7 @@
 <h3 align="center"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img src="" alt="😎" width="32" height="32">
-</picture> Hey! </br>
-I'm Sujan Chakma, a MERN Stack Developer</h3>
+</picture> Hi! I'm Sujan Chakma, a MERN Stack Developer</h3>
 
 <p>I create stellar web experiences with modern technologies. Specializing in MERN stack development, I build interfaces that are both beautiful and functional.</p>
 
