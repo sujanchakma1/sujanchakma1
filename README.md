@@ -23,5 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujanchakma1&show_icons=true&locale=en&layout=compact" alt="sujanchakma1" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sujanchakma1&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sujanchakma1&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
