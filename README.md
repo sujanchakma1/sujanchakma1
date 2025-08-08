@@ -6,11 +6,12 @@
 </picture> Hey! </br>
 I'm Sujan Chakma, a MERN Stack Developer</h3>
 <h3 align="left">🔭 Current Overview</h3>
-
-🌱 I’m Exploring - Next.Js learning by building projects
-👯 I’m looking - to collaborate on open source projects
-👨‍💻 All of my projects - are available at https://sujan-chakma.vercel.app/
-📄 Know about - my experiences https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing
+<p>
+🌱 I’m Exploring - Next.Js learning by building projects </br>
+👯 I’m looking - to collaborate on open source projects</br>
+👨‍💻 All of my projects - are available at [Portfolio](https://sujan-chakma.vercel.app/)</br>
+📄 Know about - my experiences [Resume](https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing)
+</p>
 
 
 <h3 align="left">📫 Reach me out</h3>
