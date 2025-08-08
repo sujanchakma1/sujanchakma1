@@ -7,10 +7,10 @@
 I'm Sujan Chakma, a MERN Stack Developer</h3>
 <h3 align="left">🔭 Current Overview</h3>
 <p>
-🌱 I’m Exploring - Next.Js learning by building projects </br>
-👯 I’m looking - to collaborate on open source projects</br>
-👨‍💻 All of my projects - are available at [Portfolio](https://sujan-chakma.vercel.app/)</br>
-📄 Know about - my experiences [Resume](https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing)
+<h5>🌱 I’m Exploring - Next.Js learning by building projects </h5>
+<h5>👯 I’m looking - to collaborate on open source projects</h5>
+<h5>👨‍💻 All of my projects - are available at [Portfolio](https://sujan-chakma.vercel.app/)</h5>
+<h5>📄 Know about - my experiences [Resume](https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing)</h5>
 </p>
 
 
