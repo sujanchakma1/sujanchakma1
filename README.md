@@ -3,6 +3,9 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img src="" alt="😎" width="32" height="32">
 </picture> Hey! Nice to see you.</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Sujan Chakma" />
+</h1>
 <h3>I'am Sujan, Front-End Developer | MERN Stack Enthusiast</h3>
 
 
