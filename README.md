@@ -6,6 +6,8 @@
 </picture> Hey! </br>
 I'm Sujan Chakma, a MERN Stack Developer</h3>
 
+<p>I create stellar web experiences with modern technologies. Specializing in MERN stack development, I build interfaces that are both beautiful and functional.</p>
+
 </br>
 
 <h2 align="left">🔭 Current Overview</h2>
@@ -22,7 +24,6 @@ I'm Sujan Chakma, a MERN Stack Developer</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sujan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sujan99" height="30" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1ll4u1yggp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ll4u1yggp/" height="30" width="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sujan___chakma?igsh=ewvuogfpmmnvz2dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sujan___chakma?igsh=ewvuogfpmmnvz2dk" height="30" width="30" /></a>
 </p>
 
 </br>
