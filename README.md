@@ -4,7 +4,7 @@
   <img src="" alt="😎" width="32" height="32">
 </picture> Hey! Nice to see you.</h1>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Sujan Chakma" />
+  <img src="https://raw.githubusercontent.com/sujanchakma/sujanchakma/master/name.svg" alt="Sujan Chakma" />
 </h1>
 <h3>I'am Sujan, Front-End Developer | MERN Stack Enthusiast</h3>
 
