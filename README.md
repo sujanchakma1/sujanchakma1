@@ -1,11 +1,11 @@
-<img src="https://i.ibb.co.com/fdDX3Nn6/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner-2.png" alt="coding" height="300" ></img>
-<h1><picture>
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Sujan Chakma 👋 I'm a MERN Stack developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p><h1><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img src="" alt="😎" width="32" height="32">
-</picture> Hey! Nice to see you.</h1>
-
-<h3>I'am Sujan, Front-End Developer | MERN Stack Enthusiast</h3>
-
+</picture> Hey!
+</br>
+  I'm Sujan Chakma, a MERN Stack Developer</h1>
 
 - 🌱 I’m currently learning **Exploring Next.js**
 
