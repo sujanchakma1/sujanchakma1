@@ -20,15 +20,15 @@ I'm Sujan Chakma, a MERN Stack Developer</h3>
 
 <h2 align="left">📫 Reach Me Out</h2>
 <p align="left">
-<a href="https://linkedin.com/in/sujan99" target="_blank" style="margin-right:10px;">
+<a href="https://linkedin.com/in/sujan99" target="_blank" style="margin-right:20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" />
 </a>
 
-<a href="https://www.facebook.com/share/1ll4u1yggp/" target="_blank" style="margin-right:10px;">
+<a href="https://www.facebook.com/share/1ll4u1yggp/" target="_blank" style="margin-right:20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="30" />
 </a>
 
-<a href="https://www.instagram.com/sujan___chakma?igsh=ewvuogfpmmnvz2dk" target="_blank" style="margin-right:10px;">
+<a href="https://www.instagram.com/sujan___chakma?igsh=ewvuogfpmmnvz2dk" target="_blank" style="margin-right:20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" />
 </a>
 </p>
