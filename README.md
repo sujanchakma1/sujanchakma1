@@ -3,9 +3,8 @@
 </p><h1><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.webp" type="image/webp">
   <img src="" alt="😎" width="32" height="32">
-</picture> Hey!
-</br>
-  I'm Sujan Chakma, a MERN Stack Developer</h1>
+</picture> Hey!</h1>
+<h3>I'm Sujan Chakma, a MERN Stack Developer</h3>
 
 - 🌱 I’m currently learning **Exploring Next.js**
 
