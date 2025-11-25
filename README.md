@@ -8,7 +8,7 @@
 </p>
 
 <!-- Intro -->
-<h2 align="center">😎 Hi! I'm <span style="color:#6C63FF;">Sujan Chakma</span> — MERN Stack Developer</h2>
+<h2 align="center">😎 Hi! I'm <span style="color:#1F1F1F;">Sujan Chakma</span> — MERN Stack Developer</h2>
 
 <p align="center" style="max-width:600px; margin:auto;">
   I build fast, modern and scalable web applications using the MERN ecosystem.  
@@ -19,36 +19,37 @@
 <hr/>
 
 <!-- Overview -->
-<h2>🔭 <span style="color:#6C63FF;">Current Overview</span></h2>
+<h2>🔭 <span style="color:#1F1F1F;">Current Overview</span></h2>
 
 - 🌱 Exploring **Next.js** by building real-world projects  
 - 👯 Looking to collaborate on **open-source**  
-- 👨‍💻 All projects: <a href="https://sujan-chakma.vercel.app/" style="color:#6C63FF;">Portfolio</a>  
-- 📄 My Experience: <a href="https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing" style="color:#6C63FF;">Resume</a>  
+- 👨‍💻 All projects: <a href="https://sujan-chakma.vercel.app/" style="color:#1F1F1F;">Portfolio</a>  
+- 📄 My Experience: <a href="https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing" style="color:#1F1F1F;">Resume</a>  
 
 <hr/>
 
 <!-- Contact -->
-<h2>📫 <span style="color:#6C63FF;">Reach Me Out</span></h2>
+<h2>📫 <span style="color:#1F1F1F;">Reach Me Out</span></h2>
 
 <p>
+  <!-- LinkedIn black SVG -->
   <a href="https://linkedin.com/in/sujan99">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="45" style="filter: invert(0%);" />
   </a>
 
   <a href="https://www.facebook.com/share/1ll4u1yggp/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="45" style="filter: invert(0%);" />
   </a>
 
   <a href="https://wa.me/01571312226">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="45" style="filter: invert(0%);" />
   </a>
 </p>
 
 <hr/>
 
 <!-- Technologies -->
-<h2>👨‍💻 <span style="color:#6C63FF;">Technologies I Use</span></h2>
+<h2>👨‍💻 <span style="color:#1F1F1F;">Technologies I Use</span></h2>
 
 <p align="left">
 
@@ -72,11 +73,11 @@
 <hr/>
 
 <!-- GitHub Streak -->
-<h2>⚡ <span style="color:#6C63FF;">Current GitHub Streak</span></h2>
+<h2>⚡ <span style="color:#1F1F1F;">Current GitHub Streak</span></h2>
 
 <p align="center">
     <img 
-      src="https://streak-stats.demolab.com?user=sujanchakma1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=12&card_width=600" 
+      src="https://streak-stats.demolab.com?user=sujanchakma1&theme=dark&hide_border=true&border_radius=12&card_width=600" 
       alt="GitHub Streak"
     />
 </p>
