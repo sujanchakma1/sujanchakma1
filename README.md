@@ -24,7 +24,7 @@
 - 🌱 Exploring **Next.js** by building real-world projects  
 - 👯 Looking to collaborate on **open-source**  
 - 👨‍💻 All projects: <a href="https://sujan-chakma.vercel.app/" style="color:#1F1F1F;">Portfolio</a>  
-- 📄 My Experience: <a href="https://drive.google.com/file/d/1OraAeUrbw0o04JCPmynoGD-Dsp63PASp/view?usp=sharing" style="color:#1F1F1F;">Resume</a>  
+- 📄 My Experience: <a href="https://drive.google.com/file/d/1dvxyYguT2jAqKHfR8a99P0r9XHRQox4M/view?usp=sharing" style="color:#1F1F1F;">Resume</a>  
 
 <hr/>
 
