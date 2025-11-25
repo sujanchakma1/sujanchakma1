@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/qFFDh9Fn/Grey-And-White-Modern-Linked-In-Article-Cover-Image-1.png" 
+    src="https://i.ibb.co/qFFDh9Fn/Grey-And-White-Modern-Linked-In-Article-Cover-Image-1.png" 
     style="border-radius:18px;"
     width="100%"
   />
@@ -37,7 +37,11 @@
   </a>
 
   <a href="https://www.facebook.com/share/1ll4u1yggp/">
-    <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="45"/>
+  </a>
+
+  <a href="https://wa.me/01571312226">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="45"/>
   </a>
 </p>
 
@@ -71,10 +75,8 @@
 <h2>⚡ <span style="color:#6C63FF;">Current GitHub Streak</span></h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
     <img 
       src="https://streak-stats.demolab.com?user=sujanchakma1&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=12&card_width=600" 
-      alt="GitHub Streak" 
+      alt="GitHub Streak"
     />
-  </a>
 </p>
