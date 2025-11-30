@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img 
+  <a href = "https://sujan-chakma.vercel.app/"><img 
     src="https://i.ibb.co/qFFDh9Fn/Grey-And-White-Modern-Linked-In-Article-Cover-Image-1.png" 
     style="border-radius:18px;"
     width="100%"
-  />
+  /></a>
 </p>
 
 <!-- Intro -->
@@ -27,7 +27,6 @@
 - 📫 How to reach me - sujanckz926@gmail.com
 - 🤔 I’m trying - To develop my knowledge about frontend.
 - ⚡ Fun fact - I love to eat tea, When i tried of coding!.
-- 👨‍💻 All projects: <a href="https://sujan-chakma.vercel.app/" style="color:#1F1F1F;">Portfolio</a>  
 <hr/>
 
 <!-- Contact -->
