@@ -19,13 +19,15 @@
 <hr/>
 
 <!-- Overview -->
-<h2>🔭 <span style="color:#1F1F1F;">Current Overview</span></h2>
+<h2>👀 <span style="color:#1F1F1F;">Current overview</span></h2>
 
-- 🌱 Exploring **Next.js** by building real-world projects  
-- 👯 Looking to collaborate on **open-source**  
+- 🌱 I’m exploring - TypeScript & Node.js. 
+- 👯 I’m Looking - to collaborate on with team.
+- 💬 Ask me about - React.js.
+- 📫 How to reach me - sujanckz926@gmail.com
+- 🤔 I’m trying - To develop my knowledge about frontend.
+- ⚡ Fun fact - I love to eat tea, When i tried of coding!.
 - 👨‍💻 All projects: <a href="https://sujan-chakma.vercel.app/" style="color:#1F1F1F;">Portfolio</a>  
-- 📄 My Experience: <a href="https://drive.google.com/file/d/1dvxyYguT2jAqKHfR8a99P0r9XHRQox4M/view?usp=sharing" style="color:#1F1F1F;">Resume</a>  
-
 <hr/>
 
 <!-- Contact -->
