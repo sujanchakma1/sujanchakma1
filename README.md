@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sujanchakma1&color=blue)
 <!-- Banner -->
 <p align="center">
   <a href = "https://sujan-chakma.vercel.app/"><img 
