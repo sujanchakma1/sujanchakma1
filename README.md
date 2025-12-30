@@ -2,7 +2,7 @@
 <!-- Banner -->
 <p align="center">
   <a href = "https://sujan-chakma.vercel.app/"><img 
-    src="https://i.ibb.co.com/9kYXzpby/Teal-and-Black-Modern-Programmer-New-Linked-In-Banner.png" 
+    src="https://i.ibb.co.com/kV6KVkZ5/my-banner.png" 
     style="border-radius:18px;"
     width="100%"
   /></a>
