@@ -58,7 +58,7 @@ const sujan = {
   <img width="49%" src="https://streak-stats.demolab.com?user=sujanchakma1&theme=dark&hide_border=true&background=0D1117&ring=11D9F9&fire=FF6B6B&currStreakLabel=11D9F9" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
+<p align="">
   <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanchakma1&layout=compact&hide_border=true&bg_color=0D1117&title_color=11D9F9&text_color=C9D1D9" alt="Most used programming languages" />
 </p>
 
