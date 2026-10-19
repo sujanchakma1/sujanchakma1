@@ -1,85 +1,60 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sujanchakma1&color=blue)
-<!-- Banner -->
-<p align="center">
-  <a href = "https://sujan-chakma.vercel.app/"><img 
-    src="https://i.ibb.co.com/kV6KVkZ5/my-banner.png" 
-    style="border-radius:18px;"
-    width="100%"
-  /></a>
-</p>
+<!-- Animated Header --><div align="center"><a href="https://sujan-chakma.vercel.app/">
+  <img src="https://i.ibb.co.com/kV6KVkZ5/my-banner.png" width="100%" alt="Sujan Chakma — Developer Portfolio Banner" />
+</a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=11D9F9&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sujan+Chakma+%F0%9F%91%8B;MERN+Stack+Developer;Frontend+%26+Full-Stack+Web+Developer;Building+Modern+Web+Experiences" alt="Animated introduction" /><p>
+  <a href="https://sujan-chakma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-11D9F9?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sujan99"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sujanchakmah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p><img src="https://komarev.com/ghpvc/?username=sujanchakma1&style=flat-square&color=11D9F9&label=PROFILE+VIEWS" alt="Profile views" /></div>---
 
-<!-- Intro -->
-<h2 align="center">😎 Hi! I'm <span style="color:#1F1F1F;">Sujan Chakma</span> — MERN Stack Developer</h2>
+"whoami" — About Me
 
-<p align="center" style="max-width:600px; margin:auto;">
-  I build fast, modern and scalable web applications using the MERN ecosystem.  
-  <br/>
-  Focused on clean UI, smooth UX, and performance-driven architecture.
-</p>
+const sujan = {
+  name: "Sujan Chakma",
+  role: "MERN Stack Developer",
+  location: "Chittagong, Bangladesh",
+  focus: ["Frontend Development", "Full-Stack Applications"],
+  currentlyLearning: ["TypeScript", "Next.js", "Backend Architecture"],
+  technologies: {
+    frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "GitHub", "Firebase", "Vercel"]
+  },
+  mindset: "Learn continuously. Build thoughtfully. Improve daily."
+};
 
-<hr/>
+- Building responsive, user-focused web applications with modern JavaScript technologies.
+- Focused on clean code, reusable components, performance, and maintainable architecture.
+- Interested in collaborating with developers and contributing to meaningful projects.
+- Always exploring new tools and techniques to become a better engineer.
 
-<!-- Overview -->
-<h2>👀 <span style="color:#1F1F1F;">Current overview</span></h2>
+---
 
-- 🌱 I’m exploring - TypeScript & Node.js. 
-- 👯 I’m Looking - to collaborate on with team.
-- 💬 Ask me about - React.js.
-- 📫 How to reach me - sujanchakmah@gmail.com
-- 🤔 I’m trying - To develop my knowledge about frontend.
-- ⚡ Fun fact - I love to eat tea, When i tried of coding!.
-<hr/>
+"stack --list" — Technologies & Tools
 
-<!-- Contact -->
-<h2>📫 <span style="color:#1F1F1F;">Reach Me Out</span></h2>
+<div align="center">Frontend
 
-<p>
-  <!-- LinkedIn black SVG -->
-  <a href="https://linkedin.com/in/sujan99">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="45" style="filter: invert(0%);" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />Backend & Database
 
-  <a href="https://www.facebook.com/share/1ll4u1yggp/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="45" style="filter: invert(0%);" />
-  </a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="Backend and database technologies" />Tools & Platforms
 
-  <a href="https://wa.me/01571312226">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="45" style="filter: invert(0%);" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark" alt="Development tools" /></div>---
 
-<hr/>
+"git stats" — GitHub Activity
 
-<!-- Technologies -->
-<h2>👨‍💻 <span style="color:#1F1F1F;">Technologies I Use</span></h2>
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujanchakma1&show_icons=true&theme=transparent&hide_border=true&title_color=11D9F9&icon_color=11D9F9&text_color=9CA3AF&rank_icon=github" alt="GitHub statistics" /><img width="49%" src="https://streak-stats.demolab.com?user=sujanchakma1&theme=transparent&hide_border=true&ring=11D9F9&fire=11D9F9&currStreakLabel=11D9F9" alt="GitHub contribution streak" /><img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujanchakma1&layout=compact&theme=transparent&hide_border=true&title_color=11D9F9&text_color=9CA3AF" alt="Most used programming languages" /></div>---
 
-<p align="left">
+"connect --with-me"
 
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=react" height="45"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
-<img src="https://skillicons.dev/icons?i=express" height="45"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
-<img src="https://skillicons.dev/icons?i=figma" height="45"/>
-<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
-<img src="https://skillicons.dev/icons?i=netlify" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<div align="center">I'm always open to connecting with developers, sharing knowledge, and exploring opportunities to build something useful.
 
-</p>
+<a href="https://linkedin.com/in/sujan99"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/share/1ll4u1yggp/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://wa.me/01571312226"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:sujanchakmah@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<hr/>
+<br/><br/>
 
-<!-- GitHub Streak -->
-<h2>⚡ <span style="color:#1F1F1F;">Current GitHub Streak</span></h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11D9F9,100:111827&height=100&section=footer" width="100%" alt="Decorative animated-style footer" />Building today. Improving tomorrow.
 
-<p align="center">
-    <img 
-      src="https://streak-stats.demolab.com?user=sujanchakma1&theme=dark&hide_border=true&border_radius=12&card_width=600" 
-      alt="GitHub Streak"
-    />
-</p>
+</div>
