@@ -54,7 +54,7 @@ const sujan = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujanchakma1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=11D9F9&icon_color=11D9F9&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=sujanchakma1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=11D9F9&icon_color=11D9F9&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
   <img width="49%" src="https://streak-stats.demolab.com?user=sujanchakma1&theme=dark&hide_border=true&background=0D1117&ring=11D9F9&fire=FF6B6B&currStreakLabel=11D9F9" alt="GitHub contribution streak" />
 </p>
 
